@@ -1,3 +1,7 @@
 tulipan
 rózsa
+<<<<<<< HEAD
 nárcisz
+=======
+liliom
+>>>>>>> 18597f72a6cb26423ac04fc75f271c27c55537c5
